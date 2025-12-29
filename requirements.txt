@@ -1,0 +1,6 @@
+numpy
+joblib
+scikit-learn
+RPi.GPIO
+adafruit-blinka
+adafruit-circuitpython-mcp3xxx
